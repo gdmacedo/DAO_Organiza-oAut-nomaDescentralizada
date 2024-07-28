@@ -17,7 +17,7 @@ Coloquei nesse projeto como faria uma DAO e cada uma das ações na teoria, foca
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gdmacedo/Criando_Um_NFT_na_Pratica/main/Create.jpg" alt="Minha Criação Inicial">
+  <img src=https://raw.githubusercontent.com/gdmacedo/DAO_Organiza-oAut-nomaDescentralizada/main/FullStack.jpg" alt="Criando uma DAO - Organização Autônoma Descentralizada nos Padrões Web3">
 </p>
 
 
