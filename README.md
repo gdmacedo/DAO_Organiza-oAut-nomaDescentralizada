@@ -31,34 +31,34 @@ Neste projeto foi utilizado, as seguintes ferramentas:
 
 ### Ao planejar em criar esse projeto foi definido:
 #### Nomeie a DAO​:
-##### Glener NFT Coins
+- Glener NFT Coins
 
 ​### Crie uma declaração da missão de sua DAO​
-##### Nossa missão é fazer aconter as vendas de suas NFT com base excluisivo e desenvolvimento de sistemas
+- Nossa missão é fazer aconter as vendas de suas NFT com base excluisivo e desenvolvimento de sistemas
 
 ​### Qual a entrega da DAO​
-##### 
+- Nosa previsão é para ser entregue em 11 de Setembro de 2024. 
 
 ​​​### Crie um servidor Discord​
-##### [Aguarde! Em breve estaremos divulgando o link]
+- [Aguarde! Em breve estaremos divulgando o link]
 
 ​### Crie uma conta no Twitter​
-##### [Aguarde! Em breve estaremos divulgando o link]
+- [Aguarde! Em breve estaremos divulgando o link]
 
 ​### Convide as pessoas para participar​
-##### [Aguarde! Em breve receberas um convite]
+- [Aguarde! Em breve receberas um convite]
 
 ​### Lance um token de governança​
-##### [Nossos token de governança esta no forno, estamos preparando nossas ETheriun]
+- [Nossos token de governança esta no forno, estamos preparando nossas ETheriun]
 
 ​### Crie um mecanismo de financiamento para captar os recursos da DAO​
-##### [Estamos a apresentar esse projeto em um banco para levantamento de fundos junto aos futuros investidores]
+- [Estamos a apresentar esse projeto em um banco para levantamento de fundos junto aos futuros investidores]
 
 ​### Configure o Snapshot ou outras ferramentas para votar e registrar as contribuições dos membros​
-##### [Aguarde! Em breve recebera o link para login no seu eMail]
+- [Aguarde! Em breve recebera o link para login no seu eMail]
 
 ​### Crie uma LLC
-#### [Aguarde! Em breve recebera o link]
+- [Aguarde! Em breve recebera o link]
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gdmacedo/DAO_Organiza-oAut-nomaDescentralizada/main/DAO_Map.jpg" alt="DAO - Ops">
